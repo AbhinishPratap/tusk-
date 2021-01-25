@@ -1,3 +1,5 @@
 my first repository
 a=c+d
 print(a)
+c=a-d
+print(d)
